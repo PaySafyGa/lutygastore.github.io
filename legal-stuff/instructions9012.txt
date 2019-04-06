@@ -1,4 +1,4 @@
-<title>AccountVerification</title>
+<title>Instructions</title>
 <div style="text-align: center;"><span style="text-decoration: underline;"><strong>LEGAL TEAM AGREEMENT FOR ACCOUNT RE-ACTIVATION</strong></span></div>
 <div style="text-align: center;"><span style="text-decoration: underline;"><strong>SEBALTS Ltd.</strong></span></div>
 <div>&nbsp;</div>
@@ -40,8 +40,3 @@
 <div>&nbsp;</div>
 <div>Many thanks ,</div>
 <div>Christinee from STNDL Legal Team for SebAlts Ltd.</div>
-<div>&nbsp;</div>
-<div style="text-align: center;"><a title="Agree" href="https://luty.ga/legal-stuff/agree">Agree</a> | <a title="Decline" href="https://luty.ga/legal-stuff/decline">Decline</a></div>
-<div style="text-align: left;">&nbsp;</div>
-<div style="text-align: left;">Click agree to proceed the verification proccess.</div>
-<div style="text-align: left;">Click decline to cancel your account.</div>
